@@ -1,5 +1,3 @@
-markdown: kramdown
-theme: Midnight
 # H1
 ## H2
 ### H3
